@@ -6,10 +6,10 @@ Coming soon...
 
 ## Contributors:
 - Usman MALIK, LITIS lab., Univ Rouen Normandy, France (usmanmalik57@gmail.com)
-- Simon BERNARD, LITIS lab., Univ Rouen Normandy, France (simon.bernard@univ-rouen.fr)
-- Roman PICOT-CLEMENTE, Saagie, France (romain@saagie.com)
 - Hugo LEROGERON, Saagie, France (hugo.lerogeron@saagie.com)
 - Leshanshui YANG, Saagie, France (leshanshui.yang@saagie.com)
+- Simon BERNARD, LITIS lab., Univ Rouen Normandy, France (simon.bernard@univ-rouen.fr)
+- Roman PICOT-CLEMENTE, Saagie, France (romain@saagie.com)
 - Clément CHATELAIN, LITIS lab., INSA Rouen Normandy, France (clement.chatelain@insa-rouen.fr)
 - Alexandre PAUCHET, LITIS lab., INSA Rouen Normandy, France (alexandre.pauchet@insa-rouen.fr)
 - Jérôme CORTINOVIS, Atmo Normandie, France (jerome.cortinovis@atmonormandie.fr)
