@@ -6,7 +6,7 @@ The EmoDIFT dataset was created as part of the CATCH project, funded by the ANR 
 
 This dataset includes tweets collected with the Twitter microblogging platform API, over a period corresponding to the 15 months following the fire at the Lubrizol plant in Rouen, i.e. from 19/09/2019 to 31/12/2020. It has then be compiled following three steps:
 - the collection of over 90,496 tweets containing the word "Lubrizol"
-- a filtering step to retain the 1,2508 tweets from the population affected
+- a filtering step to retain the 12,508 tweets from the population affected
 - the manual annotation of a random selection of 2,215 tweets
 
 These 2,215 tweets have then been labelled for multi-label emotion recognition tasks by a human annotators. Each tweet have been annotated by three different annotators, each of which being instructed to read and to evaluate tweets with the goal of identifying a maximum of three emotions from a predefined set of emotion labels. If the emotions expressed within the tweet belong to multiple emotion registers, the annotator is required to rank them in order of importance. This order is based on the predominance of expressed emotions within the tweet. Specifically, the label associated with the dominant emotion is assigned a value of 1, while the second and third most dominant emotions are assigned values of 2 and 3, respectively. The ultimate goal of the annotation is to identify expressions of opinion, whether they are explicit (I’m scared), or implicit (Those are hydrocarbons in there, that’s dangerous), taking only the semantic information into consideration.
