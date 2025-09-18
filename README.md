@@ -24,6 +24,7 @@ The final step has consisted to merge the three human annotations of each tweet 
 - Clément CHATELAIN, LITIS lab., INSA Rouen Normandy, France (clement.chatelain@insa-rouen.fr)
 - Alexandre PAUCHET, LITIS lab., INSA Rouen Normandy, France (alexandre.pauchet@insa-rouen.fr)
 - Jérôme CORTINOVIS, Atmo Normandie, France (jerome.cortinovis@atmonormandie.fr)
+- Eliott THOMAS, LITIS lab., Univ Rouen Normandy, France
 
 ## Acknowledgments:
 This work is part of the CATCH project (ANR-21-SIOM-0011), co-financed by the French National Research Agency (ANR) and by the the Normandy region through the RA-SIOMRI 2021 funding program.
